@@ -1,4 +1,6 @@
 # Tower of Hanoi
+# You must move all rings from top to bottom in order 8, 7, 6, 5, 4, 3, 2, 1, the trick is you can't move a ring onto one of a smaller size.
+# The quickest solve for every hanoi puzzle is 2^(n-1), n being the number of discs
 
 
 
